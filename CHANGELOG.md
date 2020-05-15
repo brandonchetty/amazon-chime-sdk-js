@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Fix minor coding styles for data message APIs
+- Pixel3 Chrome Video artifacts on far sites
 
 ## [1.5.0] - 2020-05-07
 

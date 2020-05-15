@@ -17,7 +17,7 @@ export default class DefaultDeviceController implements DeviceControllerBasedMed
   private static permissionGrantedOriginDetectionThresholdMs = 1000;
   private static permissionDeniedOriginDetectionThresholdMs = 500;
   private static defaultVideoWidth = 960;
-  private static defaultVideoHeight = 540;
+  private static defaultVideoHeight = 544;
   private static defaultVideoFrameRate = 15;
   private static defaultVideoMaxBandwidthKbps = 1400;
   private static defaultSampleRate = 48000;
